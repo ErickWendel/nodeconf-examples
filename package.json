@@ -1,0 +1,15 @@
+{
+  "name": "nodeconf",
+  "version": "1.0.0",
+  "description": "exemplos da palestra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "bluebird": "^3.4.1"
+  }
+}
