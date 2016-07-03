@@ -5,7 +5,7 @@ Examples from nodeconf talk
 > npm i
 
  - Execute separeted archives with 
-> node <file>.js
+> node file.js
 
 #Content
 
