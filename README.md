@@ -15,3 +15,6 @@ Examples from nodeconf talk
   - Promise with bluebird
   - Management operations with async module
   
+#Presentation
+  - <a href="http://slides.com/erickwendel/control-flow-nodejs/fullscreen">http://slides.com/erickwendel/control-flow-nodejs/</a>
+  
